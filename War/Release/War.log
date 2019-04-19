@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\nicholas\source\repos\war\war\deck.h(20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 229 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  War.vcxproj -> C:\Users\Nicholas\source\repos\War\Release\War.exe

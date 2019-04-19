@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\nicholas\source\repos\war\war\deck.h(20): warning C4018: '<': signed/unsigned mismatch
+  War.vcxproj -> C:\Users\Nicholas\source\repos\War\Debug\War.exe
